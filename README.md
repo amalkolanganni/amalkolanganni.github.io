@@ -1,3 +1,3 @@
 # Amal Kolanganni Portfolio Website
 
-[© Amal Kolanganni 2020](http://www.amalkolanganni.com)
+[© Amal Kolanganni 2022](http://www.amalkolanganni.com)
